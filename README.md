@@ -6,6 +6,7 @@ I'm passion about software engineering, electronics, technology, education, chur
 
 * 🌍  I'm based in Mozambique
 * 🖥️  See my portfolio at [My website](http://www.e1000son.com)
+* ✉️  You can contact me at [emilsonvontade@e1000son.com](mailto:emilsonvontade@e1000son.com)
 * 🚀  I'm currently working on [AI Algorithms](http://github.com/e1000son/datastructalgo)
 * 🧠  I'm learning Artificial Intelligence | AWS
 * 🤝  I'm open to collaborating on µ-service architecture projects (remote or on-site)

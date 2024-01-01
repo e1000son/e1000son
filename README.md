@@ -5,10 +5,10 @@ Computer Engineer 🇲🇿 | Back-End Dev 👨🏾‍💻
 I'm passion about software engineering, electronics, technology, education, church and music.
 
 * 🌍  I'm based in Mozambique
-* 🖥️  See my portfolio at [My website](http://www.e1000son.com)
+* 🖥️  See my portfolio at [e1000son.com](http://www.e1000son.com)
 * ✉️  You can contact me at [emilsonvontade@e1000son.com](mailto:emilsonvontade@e1000son.com)
 * 🚀  I'm currently working on [AI Algorithms](http://github.com/e1000son/datastructalgo)
-* 🧠  I'm learning Artificial Intelligence | AWS
+* 🧠  I'm learning Artificial Intelligence and AWS
 * 🤝  I'm open to collaborating on µ-service architecture projects (remote or on-site)
 * ⚡  I love sacred music and piano
 

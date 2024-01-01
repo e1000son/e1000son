@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emilson Vontade
-=====================================================
-Computer Engineer | Back-End Dev 👨🏾‍💻
+=============================================
+Computer Engineer 🇲🇿 | Back-End Dev 👨🏾‍💻
 ---------------------------------------------
 I'm passion about software engineering, electronics, technology, education, church and music.
 
-* 🌍  I'm based in Mozambique 🇲🇿
+* 🌍  I'm based in Mozambique
 * 🖥️  See my portfolio at [My website](http://www.e1000son.com)
 * 🚀  I'm currently working on [AI Algorithms](http://github.com/e1000son/datastructalgo)
 * 🧠  I'm learning Artificial Intelligence | AWS

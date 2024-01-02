@@ -24,13 +24,13 @@ I'm passion about software engineering, electronics, technology, education, chur
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/e1000son"><img src="https://github-readme-stats.vercel.app/api?username=e1000son&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="e1000son's GitHub stats" /></a>
-<a href="http://www.github.com/e1000son"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e1000son&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/e1000son" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1000son&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/e1000son"><img src="https://github-readme-stats.vercel.app/api?username=e1000son&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="e1000son's GitHub stats" /></a>
+<a href="http://www.github.com/e1000son"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e1000son&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/e1000son" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e1000son&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/e1000son/java-backend-bootcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=e1000son&repo=java-backend-bootcamp&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/e1000son/java-backend-bootcamp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=e1000son&repo=java-backend-bootcamp&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/e1000son/flight-reservation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=e1000son&repo=flight-reservation&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/e1000son/flight-reservation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=e1000son&repo=flight-reservation&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
 

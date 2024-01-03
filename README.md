@@ -8,7 +8,7 @@ I'm passion about software engineering, electronics, technology, education, chur
 * 🖥️  See my portfolio at [e1000son.com](http://www.e1000son.com)
 * ✉️  You can contact me at [emilsonvontade@e1000son.com](mailto:emilsonvontade@e1000son.com)
 * 🚀  I'm currently working on [AI Algorithms](http://github.com/e1000son/datastructalgo)
-* 🧠  I'm learning Artificial Intelligence, AWS and X-Road software
+* 🧠  I'm learning IA, ML, AWS and X-Road
 * 🤝🏿  I'm open to collaborating on µ-service architecture projects (remote or on-site)
 * ⚡   I love sacred music and piano
 

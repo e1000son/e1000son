@@ -1,6 +1,6 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Emilson Vontade
 =============================================
-Software Engineer 🇲🇿  ·  Back-end dev 👨🏾‍💻
+Software Engineer 🇲🇿  ·  Back-end Dev 👨🏾‍💻
 ---------------------------------------------
 I'm passion about software engineering, technology, electronics, education, church and sacred music.
 

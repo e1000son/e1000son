@@ -10,7 +10,7 @@ I'm passion about software engineering, technology, electronics, education, chur
 * 🚀  I'm currently working on [AI Algorithms](http://github.com/e1000son/datastructalgo)
 * 🧠  I'm learning AI, ML, AWS and X-Road
 * 🤝🏿  I'm open to collaborating on µ-service architecture projects (remote or on-site)
-* ⚡   I love choral singing, sacred music
+* ⚡   I love choral singing, sacred music, piano and guitar
 
 ### Skills  
 

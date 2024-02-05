@@ -2,7 +2,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 =============================================
 Software Engineer 🇲🇿  ·  Back-end dev 👨🏾‍💻
 ---------------------------------------------
-I'm passion about software engineering, technology, electronics, education, church and sacred music.
+I'm passion about software engineering, technology, electronics, education,
 
 * 🌍  I'm based in Mozambique
 * 🖥️  See my portfolio at [www.e1000son.com](https://www.e1000son.com)
